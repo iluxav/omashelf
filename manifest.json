@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "iluxav.omashelf",
+  "name": "Omashelf",
+  "version": "0.1.0",
+  "author": "iluxav",
+  "license": "MIT",
+  "description": "A shelf of your recent clipboard items. Drag one into any app to drop its text, image or file there.",
+  "kinds": ["panel"],
+  "entryPoints": {
+    "panel": "Shelf.qml"
+  }
+}
