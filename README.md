@@ -14,6 +14,8 @@ Omashelf shows the history Omarchy's clipboard manager already keeps
 (`~/.local/state/omarchy/clipboard-history.json`). It only reads that file and
 never changes it, so the shelf and Super+Ctrl+V always show the same items.
 
+What it can do today and what has changed: [osfeed.dev/p/iluxav/omashelf](https://osfeed.dev/p/iluxav/omashelf).
+
 ## Install
 
 ```bash
